@@ -15,7 +15,7 @@
   ~ limitations under the License
   -->
 <permissions>
-    <privapp-permissions package="com.android.permissioncontroller">
+    <privapp-permissions package="com.google.android.permissioncontroller">
         <permission name="android.permission.CLEAR_APP_CACHE"/>
         <permission name="android.permission.MANAGE_USERS"/>
         <permission name="android.permission.OBSERVE_GRANT_REVOKE_PERMISSIONS"/>

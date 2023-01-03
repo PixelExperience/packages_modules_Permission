@@ -20,8 +20,8 @@ package {
 }
 
 prebuilt_etc {
-    name: "privapp_allowlist_com.android.permissioncontroller.xml",
+    name: "privapp_allowlist_com.google.android.permissioncontroller.xml",
     sub_dir: "permissions",
-    src: "com.android.permissioncontroller.xml",
+    src: "com.google.android.permissioncontroller.xml",
     installable: false,
 }
